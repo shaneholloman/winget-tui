@@ -5,7 +5,7 @@
 A terminal user interface for [Windows Package Manager (winget)](https://github.com/microsoft/winget-cli). Search, install, uninstall, and upgrade Windows packages without leaving your terminal.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ![winget-tui screenshot](img/wingettui.png)
 
@@ -194,4 +194,5 @@ The backend is behind a trait (`WingetBackend`) to allow future implementations 
 
 ## License
 
-MIT
+Licensed under the [MIT License](LICENSE). Third-party dependencies and assets
+remain subject to their respective licenses.
